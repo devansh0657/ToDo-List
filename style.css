@@ -1,0 +1,29 @@
+#parents{
+    text-align: center;
+    margin-top: 100px;
+  }
+  #input{
+    font-size: 28px;
+    border-radius: 8px;
+    border-color: blue;
+  }
+  #button{
+  padding: 15px;
+  padding-bottom: 7px;
+  margin: 8px;
+  background-color: red;
+  border:none;
+  }
+  #button:hover{
+    color: white;
+    font-size: 20px;
+  }
+  #rb{
+    margin: 5px;
+    padding: 8px;
+  }
+  #rb:hover{
+    color: white;
+    font-size: 20px;
+    background-color: blue;
+  }
